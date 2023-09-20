@@ -3,6 +3,10 @@
 venv
 .upm
 .replit
+db.sqlite3
 replit.nix
 poetry.lock
 pyproject.toml
+node_modules
+package-lock.json
+package.json
