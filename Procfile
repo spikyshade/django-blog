@@ -1,2 +1,2 @@
 web: gunicorn server:app
-web: uvicorn main:app --proxy-headers
+gunicorn django_project.wsgi
